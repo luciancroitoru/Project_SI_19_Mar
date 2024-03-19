@@ -1,0 +1,1 @@
+console.log(`Hei, my name is main.js . I've loaded`);
